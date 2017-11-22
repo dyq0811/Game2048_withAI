@@ -2,12 +2,11 @@
 
 Hello, welcome to game 2048!
 
-To play the game:
-run file game2048.py
+Run file game2048.py to play the game.
 
-To test the artificial intelligence:
-run file ai_tester.py
-call function: testAI() or testRandom()
+
+Run file ai_tester.py and call function: testAI() or testRandom() to test the artificial intelligence.
+
 
 HAVE FUN :)
 
